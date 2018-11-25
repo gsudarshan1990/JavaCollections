@@ -1,4 +1,4 @@
-package Set;
+package Sets;
 import java.util.LinkedHashSet;
 
 public class LinkedHashSetExample {
